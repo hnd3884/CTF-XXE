@@ -41,7 +41,7 @@
     <h1>Danh sách sinh viên</h1>
     <h3>Upload list (XML format)</h3>
     <form action="upload.php" method="POST" enctype="multipart/form-data">
-        <input type="file" name="fileToUpload">
+        <input type="file" name="fileToUpload" accept=".xml">
         <button type="submit" name="submit">Submit</button>
     </form>
     <br>
